@@ -1,0 +1,19 @@
+@media (max-width:1140px) {
+    .main__text{
+        max-width: 500px;
+        width: 100%;
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .main__img{
+        width: 500px;
+    }
+    .main__img3{
+        width: 250px;
+    }
+    .low__box{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+}
